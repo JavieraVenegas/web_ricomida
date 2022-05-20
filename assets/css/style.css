@@ -1,0 +1,80 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Cabin";
+}
+
+.navbar-brand {
+    font-family: "Lobster", cursive;
+    font-size: 28pt;
+    padding: 0px;
+}
+
+.titulo_main {
+    text-align: left;
+    font-size: 40pt;
+    padding-right: 10%;
+    padding-top: 20px;
+}
+
+hr {
+    border-top: 2px solid #373a3c;
+}
+
+.button_main {
+    border: 1px solid #DDDDDD;
+}
+
+h4 { 
+    text-decoration: underline 2px;
+
+}
+
+.carousel{
+    max-width: 1200px;
+    margin: auto;
+    padding: 30px;
+  }
+
+.carousel-indicators [data-bs-target] {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    outline: none;
+    border-radius: 14px;
+    border: 0px solid #373A3C!important;
+    box-shadow: 0px 4px 15px #373A3C31;
+}
+
+.receta {
+    padding: 20px;
+}
+
+.cards {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.suscribete {
+    background: #dc3545;
+    text-align: center;
+    padding: 100px;
+    color: white;
+}
+
+.newsletter {
+    margin-top: 45px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-weight: 400;
+}
+
+span {
+    font-family:"Lobster";
+}
+
+footer {
+    background: #373a3c;
+    font-family: "Lobster";
+    font-size: 30px;
+}
